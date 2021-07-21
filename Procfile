@@ -1,1 +1,1 @@
-web: source setup.sh && python PreFur.ipynb
+web: source setup.sh && python PredFur.ipynb
